@@ -1,0 +1,280 @@
+[
+  {
+    "source": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+    "retrievedAt": "2026-10-29",
+    "displayValues": {
+      "dimensionColor": {
+        "black": {
+          "value": "Black"
+        },
+        "burgundy": {
+          "value": "Burgundy"
+        },
+        "glacier": {
+          "value": "Glacier"
+        },
+        "silver": {
+          "value": "Silver"
+        }
+      }
+    },
+    "products": [
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWE4LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWD4LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWC4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWH4LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWG4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWF4LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWL4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWK4LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWJ4LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW54LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW44LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW94LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW84LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW74LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJW64LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18promax",
+        "partNumber": "MJWA4LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ84LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ94LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ64LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ74LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQA4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQD4LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQE4LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQC4LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQH4LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQJ4LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQF4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQG4LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQK4LL/A",
+        "dimensionColor": "glacier",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ44LL/A",
+        "dimensionColor": "silver",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ54LL/A",
+        "dimensionColor": "burgundy",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphone18pro",
+        "partNumber": "MJQ34LL/A",
+        "dimensionColor": "black",
+        "dimensionCapacity": "256gb"
+      }
+    ]
+  },
+  {
+    "source": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+    "retrievedAt": "2026-10-29",
+    "displayValues": {
+      "dimensionColor": {
+        "nightsky": {
+          "value": "Night Sky"
+        },
+        "starwhite": {
+          "value": "Star White"
+        }
+      }
+    },
+    "products": [
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1F4LL/A",
+        "dimensionColor": "nightsky",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1H4LL/A",
+        "dimensionColor": "nightsky",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1G4LL/A",
+        "dimensionColor": "starwhite",
+        "dimensionCapacity": "512gb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1E4LL/A",
+        "dimensionColor": "starwhite",
+        "dimensionCapacity": "256gb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1L4LL/A",
+        "dimensionColor": "nightsky",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1Q4LL/A",
+        "dimensionColor": "starwhite",
+        "dimensionCapacity": "2tb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1J4LL/A",
+        "dimensionColor": "starwhite",
+        "dimensionCapacity": "1tb"
+      },
+      {
+        "familyType": "iphoneduo",
+        "partNumber": "MK1R4LL/A",
+        "dimensionColor": "nightsky",
+        "dimensionCapacity": "2tb"
+      }
+    ]
+  }
+]

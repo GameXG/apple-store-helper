@@ -3412,5 +3412,2917 @@
         ]
       }
     ]
+  },
+  {
+    "locale": "en_US",
+    "hasStates": false,
+    "source": "https://www.apple.com/retail/storelist/",
+    "retrievedAt": "2026-10-29",
+    "store": [
+      {
+        "id": "R225",
+        "name": "The Summit",
+        "address": {
+          "stateName": "Alabama",
+          "city": "Birmingham"
+        }
+      },
+      {
+        "id": "R266",
+        "name": "Bridge Street",
+        "address": {
+          "stateName": "Alabama",
+          "city": "Huntsville"
+        }
+      },
+      {
+        "id": "R262",
+        "name": "Anchorage 5th Avenue Mall",
+        "address": {
+          "stateName": "Alaska",
+          "city": "Anchorage"
+        }
+      },
+      {
+        "id": "R026",
+        "name": "Chandler Fashion Center",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Chandler"
+        }
+      },
+      {
+        "id": "R267",
+        "name": "SanTan Village",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Gilbert"
+        }
+      },
+      {
+        "id": "R247",
+        "name": "Arrowhead",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Glendale"
+        }
+      },
+      {
+        "id": "R031",
+        "name": "Scottsdale Fashion Square",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Scottsdale"
+        }
+      },
+      {
+        "id": "R292",
+        "name": "Scottsdale Quarter",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Scottsdale"
+        }
+      },
+      {
+        "id": "R086",
+        "name": "La Encantada",
+        "address": {
+          "stateName": "Arizona",
+          "city": "Tucson"
+        }
+      },
+      {
+        "id": "R286",
+        "name": "The Promenade at Chenal",
+        "address": {
+          "stateName": "Arkansas",
+          "city": "Little Rock"
+        }
+      },
+      {
+        "id": "R550",
+        "name": "Valley Plaza",
+        "address": {
+          "stateName": "California",
+          "city": "Bakersfield"
+        }
+      },
+      {
+        "id": "R414",
+        "name": "4th Street",
+        "address": {
+          "stateName": "California",
+          "city": "Berkeley"
+        }
+      },
+      {
+        "id": "R156",
+        "name": "Brea Mall",
+        "address": {
+          "stateName": "California",
+          "city": "Brea"
+        }
+      },
+      {
+        "id": "R029",
+        "name": "Burlingame",
+        "address": {
+          "stateName": "California",
+          "city": "Burlingame"
+        }
+      },
+      {
+        "id": "R189",
+        "name": "Topanga",
+        "address": {
+          "stateName": "California",
+          "city": "Canoga Park"
+        }
+      },
+      {
+        "id": "R294",
+        "name": "Carlsbad",
+        "address": {
+          "stateName": "California",
+          "city": "Carlsbad"
+        }
+      },
+      {
+        "id": "R300",
+        "name": "Los Cerritos",
+        "address": {
+          "stateName": "California",
+          "city": "Cerritos"
+        }
+      },
+      {
+        "id": "R213",
+        "name": "Otay Ranch",
+        "address": {
+          "stateName": "California",
+          "city": "Chula Vista"
+        }
+      },
+      {
+        "id": "R071",
+        "name": "Corte Madera",
+        "address": {
+          "stateName": "California",
+          "city": "Corte Madera"
+        }
+      },
+      {
+        "id": "R004",
+        "name": "South Coast Plaza",
+        "address": {
+          "stateName": "California",
+          "city": "Costa Mesa"
+        }
+      },
+      {
+        "id": "R824",
+        "name": "Apple Park Visitor Center",
+        "address": {
+          "stateName": "California",
+          "city": "Cupertino"
+        }
+      },
+      {
+        "id": "R057",
+        "name": "Bay Street",
+        "address": {
+          "stateName": "California",
+          "city": "Emeryville"
+        }
+      },
+      {
+        "id": "R236",
+        "name": "Fashion Fair",
+        "address": {
+          "stateName": "California",
+          "city": "Fresno"
+        }
+      },
+      {
+        "id": "R001",
+        "name": "Glendale Galleria",
+        "address": {
+          "stateName": "California",
+          "city": "Glendale"
+        }
+      },
+      {
+        "id": "R451",
+        "name": "The Americana at Brand",
+        "address": {
+          "stateName": "California",
+          "city": "Glendale"
+        }
+      },
+      {
+        "id": "R146",
+        "name": "Irvine Spectrum Center",
+        "address": {
+          "stateName": "California",
+          "city": "Irvine"
+        }
+      },
+      {
+        "id": "R050",
+        "name": "The Grove",
+        "address": {
+          "stateName": "California",
+          "city": "Los Angeles"
+        }
+      },
+      {
+        "id": "R124",
+        "name": "Beverly Center",
+        "address": {
+          "stateName": "California",
+          "city": "Los Angeles"
+        }
+      },
+      {
+        "id": "R720",
+        "name": "Tower Theatre",
+        "address": {
+          "stateName": "California",
+          "city": "Los Angeles"
+        }
+      },
+      {
+        "id": "R108",
+        "name": "Century City",
+        "address": {
+          "stateName": "California",
+          "city": "Los Angeles"
+        }
+      },
+      {
+        "id": "R240",
+        "name": "Los Gatos",
+        "address": {
+          "stateName": "California",
+          "city": "Los Gatos"
+        }
+      },
+      {
+        "id": "R122",
+        "name": "Manhattan Village",
+        "address": {
+          "stateName": "California",
+          "city": "Manhattan Beach"
+        }
+      },
+      {
+        "id": "R069",
+        "name": "Mission Viejo",
+        "address": {
+          "stateName": "California",
+          "city": "Mission Viejo"
+        }
+      },
+      {
+        "id": "R322",
+        "name": "Vintage Faire",
+        "address": {
+          "stateName": "California",
+          "city": "Modesto"
+        }
+      },
+      {
+        "id": "R305",
+        "name": "Del Monte",
+        "address": {
+          "stateName": "California",
+          "city": "Monterey"
+        }
+      },
+      {
+        "id": "R015",
+        "name": "Fashion Island",
+        "address": {
+          "stateName": "California",
+          "city": "Newport Beach"
+        }
+      },
+      {
+        "id": "R023",
+        "name": "Northridge",
+        "address": {
+          "stateName": "California",
+          "city": "Northridge"
+        }
+      },
+      {
+        "id": "R297",
+        "name": "El Paseo Village",
+        "address": {
+          "stateName": "California",
+          "city": "Palm Desert"
+        }
+      },
+      {
+        "id": "R002",
+        "name": "Palo Alto",
+        "address": {
+          "stateName": "California",
+          "city": "Palo Alto"
+        }
+      },
+      {
+        "id": "R099",
+        "name": "Stanford Shopping Center",
+        "address": {
+          "stateName": "California",
+          "city": "Palo Alto"
+        }
+      },
+      {
+        "id": "R034",
+        "name": "Pasadena",
+        "address": {
+          "stateName": "California",
+          "city": "Pasadena"
+        }
+      },
+      {
+        "id": "R101",
+        "name": "Stoneridge Mall",
+        "address": {
+          "stateName": "California",
+          "city": "Pleasanton"
+        }
+      },
+      {
+        "id": "R094",
+        "name": "Victoria Gardens",
+        "address": {
+          "stateName": "California",
+          "city": "Rancho Cucamonga"
+        }
+      },
+      {
+        "id": "R298",
+        "name": "Roseville",
+        "address": {
+          "stateName": "California",
+          "city": "Roseville"
+        }
+      },
+      {
+        "id": "R070",
+        "name": "Arden Fair",
+        "address": {
+          "stateName": "California",
+          "city": "Sacramento"
+        }
+      },
+      {
+        "id": "R040",
+        "name": "Fashion Valley",
+        "address": {
+          "stateName": "California",
+          "city": "San Diego"
+        }
+      },
+      {
+        "id": "R082",
+        "name": "UTC",
+        "address": {
+          "stateName": "California",
+          "city": "San Diego"
+        }
+      },
+      {
+        "id": "R033",
+        "name": "Stonestown",
+        "address": {
+          "stateName": "California",
+          "city": "San Francisco"
+        }
+      },
+      {
+        "id": "R075",
+        "name": "Union Square",
+        "address": {
+          "stateName": "California",
+          "city": "San Francisco"
+        }
+      },
+      {
+        "id": "R217",
+        "name": "Chestnut Street",
+        "address": {
+          "stateName": "California",
+          "city": "San Francisco"
+        }
+      },
+      {
+        "id": "R105",
+        "name": "Oakridge",
+        "address": {
+          "stateName": "California",
+          "city": "San Jose"
+        }
+      },
+      {
+        "id": "R199",
+        "name": "Higuera Street",
+        "address": {
+          "stateName": "California",
+          "city": "San Luis Obispo"
+        }
+      },
+      {
+        "id": "R231",
+        "name": "Hillsdale",
+        "address": {
+          "stateName": "California",
+          "city": "San Mateo"
+        }
+      },
+      {
+        "id": "R317",
+        "name": "State Street",
+        "address": {
+          "stateName": "California",
+          "city": "Santa Barbara"
+        }
+      },
+      {
+        "id": "R039",
+        "name": "Valley Fair",
+        "address": {
+          "stateName": "California",
+          "city": "Santa Clara"
+        }
+      },
+      {
+        "id": "R051",
+        "name": "Third Street Promenade",
+        "address": {
+          "stateName": "California",
+          "city": "Santa Monica"
+        }
+      },
+      {
+        "id": "R044",
+        "name": "Montgomery Village",
+        "address": {
+          "stateName": "California",
+          "city": "Santa Rosa"
+        }
+      },
+      {
+        "id": "R148",
+        "name": "Sherman Oaks",
+        "address": {
+          "stateName": "California",
+          "city": "Sherman Oaks"
+        }
+      },
+      {
+        "id": "R345",
+        "name": "Promenade Temecula",
+        "address": {
+          "stateName": "California",
+          "city": "Temecula"
+        }
+      },
+      {
+        "id": "R154",
+        "name": "The Oaks",
+        "address": {
+          "stateName": "California",
+          "city": "Thousand Oaks"
+        }
+      },
+      {
+        "id": "R777",
+        "name": "Del Amo",
+        "address": {
+          "stateName": "California",
+          "city": "Torrance"
+        }
+      },
+      {
+        "id": "R462",
+        "name": "Valencia Town Center",
+        "address": {
+          "stateName": "California",
+          "city": "Valencia"
+        }
+      },
+      {
+        "id": "R014",
+        "name": "Broadway Plaza",
+        "address": {
+          "stateName": "California",
+          "city": "Walnut Creek"
+        }
+      },
+      {
+        "id": "R172",
+        "name": "Twenty Ninth Street",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Boulder"
+        }
+      },
+      {
+        "id": "R182",
+        "name": "FlatIron Crossing",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Broomfield"
+        }
+      },
+      {
+        "id": "R338",
+        "name": "The Promenade Shops at Briargate",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Colorado Springs"
+        }
+      },
+      {
+        "id": "R047",
+        "name": "Cherry Creek",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Denver"
+        }
+      },
+      {
+        "id": "R030",
+        "name": "Aspen Grove",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Littleton"
+        }
+      },
+      {
+        "id": "R228",
+        "name": "Park Meadows",
+        "address": {
+          "stateName": "Colorado",
+          "city": "Lone Tree"
+        }
+      },
+      {
+        "id": "R093",
+        "name": "Danbury Fair Mall",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "Danbury"
+        }
+      },
+      {
+        "id": "R025",
+        "name": "Westfarms",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "Farmington"
+        }
+      },
+      {
+        "id": "R282",
+        "name": "Greenwich Avenue",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "Greenwich"
+        }
+      },
+      {
+        "id": "R446",
+        "name": "New Haven",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "New Haven"
+        }
+      },
+      {
+        "id": "R202",
+        "name": "SoNo Collection",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "Norwalk"
+        }
+      },
+      {
+        "id": "R613",
+        "name": "Evergreen Walk",
+        "address": {
+          "stateName": "Connecticut",
+          "city": "South Windsor"
+        }
+      },
+      {
+        "id": "R102",
+        "name": "Christiana Mall",
+        "address": {
+          "stateName": "Delaware",
+          "city": "Newark"
+        }
+      },
+      {
+        "id": "R287",
+        "name": "Georgetown",
+        "address": {
+          "stateName": "District of Columbia",
+          "city": "Washington"
+        }
+      },
+      {
+        "id": "R516",
+        "name": "Carnegie Library",
+        "address": {
+          "stateName": "District of Columbia",
+          "city": "Washington"
+        }
+      },
+      {
+        "id": "R291",
+        "name": "Altamonte",
+        "address": {
+          "stateName": "Florida",
+          "city": "Altamonte Springs"
+        }
+      },
+      {
+        "id": "R087",
+        "name": "Aventura",
+        "address": {
+          "stateName": "Florida",
+          "city": "Aventura"
+        }
+      },
+      {
+        "id": "R074",
+        "name": "Boca Raton",
+        "address": {
+          "stateName": "Florida",
+          "city": "Boca Raton"
+        }
+      },
+      {
+        "id": "R289",
+        "name": "Brandon",
+        "address": {
+          "stateName": "Florida",
+          "city": "Brandon"
+        }
+      },
+      {
+        "id": "R185",
+        "name": "Coconut Point",
+        "address": {
+          "stateName": "Florida",
+          "city": "Estero"
+        }
+      },
+      {
+        "id": "R214",
+        "name": "The Galleria",
+        "address": {
+          "stateName": "Florida",
+          "city": "Fort Lauderdale"
+        }
+      },
+      {
+        "id": "R111",
+        "name": "St. Johns Town Center",
+        "address": {
+          "stateName": "Florida",
+          "city": "Jacksonville"
+        }
+      },
+      {
+        "id": "R312",
+        "name": "Dadeland",
+        "address": {
+          "stateName": "Florida",
+          "city": "Miami"
+        }
+      },
+      {
+        "id": "R752",
+        "name": "Miami Worldcenter",
+        "address": {
+          "stateName": "Florida",
+          "city": "Miami"
+        }
+      },
+      {
+        "id": "R623",
+        "name": "Brickell City Centre",
+        "address": {
+          "stateName": "Florida",
+          "city": "Miami"
+        }
+      },
+      {
+        "id": "R012",
+        "name": "The Falls",
+        "address": {
+          "stateName": "Florida",
+          "city": "Miami"
+        }
+      },
+      {
+        "id": "R115",
+        "name": "Lincoln Road",
+        "address": {
+          "stateName": "Florida",
+          "city": "Miami Beach"
+        }
+      },
+      {
+        "id": "R169",
+        "name": "Waterside Shops",
+        "address": {
+          "stateName": "Florida",
+          "city": "Naples"
+        }
+      },
+      {
+        "id": "R143",
+        "name": "Florida Mall",
+        "address": {
+          "stateName": "Florida",
+          "city": "Orlando"
+        }
+      },
+      {
+        "id": "R053",
+        "name": "Millenia",
+        "address": {
+          "stateName": "Florida",
+          "city": "Orlando"
+        }
+      },
+      {
+        "id": "R127",
+        "name": "The Gardens Mall",
+        "address": {
+          "stateName": "Florida",
+          "city": "Palm Beach Gardens"
+        }
+      },
+      {
+        "id": "R615",
+        "name": "University Town Center",
+        "address": {
+          "stateName": "Florida",
+          "city": "Sarasota"
+        }
+      },
+      {
+        "id": "R019",
+        "name": "International Plaza",
+        "address": {
+          "stateName": "Florida",
+          "city": "Tampa"
+        }
+      },
+      {
+        "id": "R024",
+        "name": "Wellington Green",
+        "address": {
+          "stateName": "Florida",
+          "city": "Wellington"
+        }
+      },
+      {
+        "id": "R080",
+        "name": "Avalon",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Alpharetta"
+        }
+      },
+      {
+        "id": "R006",
+        "name": "Lenox Square",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Atlanta"
+        }
+      },
+      {
+        "id": "R184",
+        "name": "Perimeter",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Atlanta"
+        }
+      },
+      {
+        "id": "R591",
+        "name": "Cumberland Mall",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Atlanta"
+        }
+      },
+      {
+        "id": "R364",
+        "name": "Augusta",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Augusta"
+        }
+      },
+      {
+        "id": "R259",
+        "name": "Mall of Georgia",
+        "address": {
+          "stateName": "Georgia",
+          "city": "Buford"
+        }
+      },
+      {
+        "id": "R210",
+        "name": "Kahala",
+        "address": {
+          "stateName": "Hawaii",
+          "city": "Honolulu"
+        }
+      },
+      {
+        "id": "R073",
+        "name": "Ala Moana",
+        "address": {
+          "stateName": "Hawaii",
+          "city": "Honolulu"
+        }
+      },
+      {
+        "id": "R303",
+        "name": "Boise Towne Square",
+        "address": {
+          "stateName": "Idaho",
+          "city": "Boise"
+        }
+      },
+      {
+        "id": "R035",
+        "name": "Michigan Avenue",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Chicago"
+        }
+      },
+      {
+        "id": "R284",
+        "name": "Lincoln Park",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Chicago"
+        }
+      },
+      {
+        "id": "R258",
+        "name": "Deer Park",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Deer Park"
+        }
+      },
+      {
+        "id": "R348",
+        "name": "Main Place",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Naperville"
+        }
+      },
+      {
+        "id": "R056",
+        "name": "Oakbrook",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Oak Brook"
+        }
+      },
+      {
+        "id": "R237",
+        "name": "Orland Square Mall",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Orland Park"
+        }
+      },
+      {
+        "id": "R018",
+        "name": "Woodfield",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Schaumburg"
+        }
+      },
+      {
+        "id": "R089",
+        "name": "Old Orchard",
+        "address": {
+          "stateName": "Illinois",
+          "city": "Skokie"
+        }
+      },
+      {
+        "id": "R066",
+        "name": "The Fashion Mall at Keystone",
+        "address": {
+          "stateName": "Indiana",
+          "city": "Indianapolis"
+        }
+      },
+      {
+        "id": "R360",
+        "name": "University Park Mall",
+        "address": {
+          "stateName": "Indiana",
+          "city": "Mishawaka"
+        }
+      },
+      {
+        "id": "R109",
+        "name": "Jordan Creek",
+        "address": {
+          "stateName": "Iowa",
+          "city": "West Des Moines"
+        }
+      },
+      {
+        "id": "R283",
+        "name": "Leawood",
+        "address": {
+          "stateName": "Kansas",
+          "city": "Leawood"
+        }
+      },
+      {
+        "id": "R288",
+        "name": "Fritz Farm",
+        "address": {
+          "stateName": "Kentucky",
+          "city": "Lexington"
+        }
+      },
+      {
+        "id": "R264",
+        "name": "Oxmoor",
+        "address": {
+          "stateName": "Kentucky",
+          "city": "Louisville"
+        }
+      },
+      {
+        "id": "R263",
+        "name": "Mall of Louisiana",
+        "address": {
+          "stateName": "Louisiana",
+          "city": "Baton Rouge"
+        }
+      },
+      {
+        "id": "R235",
+        "name": "Lakeside Shopping Center",
+        "address": {
+          "stateName": "Louisiana",
+          "city": "Metairie"
+        }
+      },
+      {
+        "id": "R307",
+        "name": "Maine Mall",
+        "address": {
+          "stateName": "Maine",
+          "city": "South Portland"
+        }
+      },
+      {
+        "id": "R142",
+        "name": "Annapolis",
+        "address": {
+          "stateName": "Maryland",
+          "city": "Annapolis"
+        }
+      },
+      {
+        "id": "R084",
+        "name": "Montgomery Mall",
+        "address": {
+          "stateName": "Maryland",
+          "city": "Bethesda"
+        }
+      },
+      {
+        "id": "R112",
+        "name": "Bethesda Row",
+        "address": {
+          "stateName": "Maryland",
+          "city": "Bethesda"
+        }
+      },
+      {
+        "id": "R168",
+        "name": "Columbia",
+        "address": {
+          "stateName": "Maryland",
+          "city": "Columbia"
+        }
+      },
+      {
+        "id": "R149",
+        "name": "Boylston Street",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Boston"
+        }
+      },
+      {
+        "id": "R110",
+        "name": "South Shore",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Braintree"
+        }
+      },
+      {
+        "id": "R155",
+        "name": "Burlington",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Burlington"
+        }
+      },
+      {
+        "id": "R021",
+        "name": "CambridgeSide",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Cambridge"
+        }
+      },
+      {
+        "id": "R076",
+        "name": "Chestnut Hill",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Chestnut Hill"
+        }
+      },
+      {
+        "id": "R346",
+        "name": "Legacy Place",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Dedham"
+        }
+      },
+      {
+        "id": "R137",
+        "name": "Derby Street",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Hingham"
+        }
+      },
+      {
+        "id": "R191",
+        "name": "Holyoke",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Holyoke"
+        }
+      },
+      {
+        "id": "R011",
+        "name": "MarketStreet",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Lynnfield"
+        }
+      },
+      {
+        "id": "R622",
+        "name": "The Shops at Blackstone Valley",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Millbury"
+        }
+      },
+      {
+        "id": "R232",
+        "name": "Natick",
+        "address": {
+          "stateName": "Massachusetts",
+          "city": "Natick"
+        }
+      },
+      {
+        "id": "R230",
+        "name": "Briarwood",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Ann Arbor"
+        }
+      },
+      {
+        "id": "R763",
+        "name": "Downtown Detroit",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Detroit"
+        }
+      },
+      {
+        "id": "R132",
+        "name": "Woodland",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Grand Rapids"
+        }
+      },
+      {
+        "id": "R616",
+        "name": "Eastwood Towne Center",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Lansing"
+        }
+      },
+      {
+        "id": "R041",
+        "name": "Twelve Oaks",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Novi"
+        }
+      },
+      {
+        "id": "R055",
+        "name": "Somerset",
+        "address": {
+          "stateName": "Michigan",
+          "city": "Troy"
+        }
+      },
+      {
+        "id": "R007",
+        "name": "Mall of America",
+        "address": {
+          "stateName": "Minnesota",
+          "city": "Bloomington"
+        }
+      },
+      {
+        "id": "R054",
+        "name": "Southdale",
+        "address": {
+          "stateName": "Minnesota",
+          "city": "Edina"
+        }
+      },
+      {
+        "id": "R183",
+        "name": "Ridgedale",
+        "address": {
+          "stateName": "Minnesota",
+          "city": "Minnetonka"
+        }
+      },
+      {
+        "id": "R022",
+        "name": "Rosedale Center",
+        "address": {
+          "stateName": "Minnesota",
+          "city": "Roseville"
+        }
+      },
+      {
+        "id": "R324",
+        "name": "Renaissance at Colony Park",
+        "address": {
+          "stateName": "Mississippi",
+          "city": "Ridgeland"
+        }
+      },
+      {
+        "id": "R097",
+        "name": "Country Club Plaza",
+        "address": {
+          "stateName": "Missouri",
+          "city": "Kansas City"
+        }
+      },
+      {
+        "id": "R114",
+        "name": "Saint Louis Galleria",
+        "address": {
+          "stateName": "Missouri",
+          "city": "Saint Louis"
+        }
+      },
+      {
+        "id": "R062",
+        "name": "West County",
+        "address": {
+          "stateName": "Missouri",
+          "city": "Saint Louis"
+        }
+      },
+      {
+        "id": "R190",
+        "name": "Village Pointe",
+        "address": {
+          "stateName": "Nebraska",
+          "city": "Omaha"
+        }
+      },
+      {
+        "id": "R219",
+        "name": "Town Square",
+        "address": {
+          "stateName": "Nevada",
+          "city": "Las Vegas"
+        }
+      },
+      {
+        "id": "R161",
+        "name": "The Forum Shops",
+        "address": {
+          "stateName": "Nevada",
+          "city": "Las Vegas"
+        }
+      },
+      {
+        "id": "R650",
+        "name": "Summerlin",
+        "address": {
+          "stateName": "Nevada",
+          "city": "Las Vegas"
+        }
+      },
+      {
+        "id": "R064",
+        "name": "Fashion Show",
+        "address": {
+          "stateName": "Nevada",
+          "city": "Las Vegas"
+        }
+      },
+      {
+        "id": "R186",
+        "name": "Shayden Summit",
+        "address": {
+          "stateName": "Nevada",
+          "city": "Reno"
+        }
+      },
+      {
+        "id": "R631",
+        "name": "The Mall of New Hampshire",
+        "address": {
+          "stateName": "New Hampshire",
+          "city": "Manchester"
+        }
+      },
+      {
+        "id": "R354",
+        "name": "Pheasant Lane",
+        "address": {
+          "stateName": "New Hampshire",
+          "city": "Nashua"
+        }
+      },
+      {
+        "id": "R027",
+        "name": "Rockingham Park",
+        "address": {
+          "stateName": "New Hampshire",
+          "city": "Salem"
+        }
+      },
+      {
+        "id": "R104",
+        "name": "Bridgewater",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Bridgewater"
+        }
+      },
+      {
+        "id": "R206",
+        "name": "Cherry Hill",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Cherry Hill"
+        }
+      },
+      {
+        "id": "R755",
+        "name": "American Dream",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "East Rutherford"
+        }
+      },
+      {
+        "id": "R067",
+        "name": "Menlo Park",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Edison"
+        }
+      },
+      {
+        "id": "R138",
+        "name": "Freehold Raceway Mall",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Freehold"
+        }
+      },
+      {
+        "id": "R549",
+        "name": "Quaker Bridge",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Lawrence Township"
+        }
+      },
+      {
+        "id": "R088",
+        "name": "Sagemore",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Marlton"
+        }
+      },
+      {
+        "id": "R117",
+        "name": "Garden State Plaza",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Paramus"
+        }
+      },
+      {
+        "id": "R103",
+        "name": "Rockaway",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Rockaway"
+        }
+      },
+      {
+        "id": "R043",
+        "name": "Short Hills",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Short Hills"
+        }
+      },
+      {
+        "id": "R325",
+        "name": "Willowbrook",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Wayne"
+        }
+      },
+      {
+        "id": "R013",
+        "name": "Tice's Corner",
+        "address": {
+          "stateName": "New Jersey",
+          "city": "Woodcliff Lake"
+        }
+      },
+      {
+        "id": "R177",
+        "name": "ABQ Uptown",
+        "address": {
+          "stateName": "New Mexico",
+          "city": "Albuquerque"
+        }
+      },
+      {
+        "id": "R017",
+        "name": "Crossgates",
+        "address": {
+          "stateName": "New York",
+          "city": "Albany"
+        }
+      },
+      {
+        "id": "R753",
+        "name": "The Mall at Bay Plaza",
+        "address": {
+          "stateName": "New York",
+          "city": "Bronx"
+        }
+      },
+      {
+        "id": "R594",
+        "name": "Williamsburg",
+        "address": {
+          "stateName": "New York",
+          "city": "Brooklyn"
+        }
+      },
+      {
+        "id": "R715",
+        "name": "Downtown Brooklyn",
+        "address": {
+          "stateName": "New York",
+          "city": "Brooklyn"
+        }
+      },
+      {
+        "id": "R016",
+        "name": "Walden Galleria",
+        "address": {
+          "stateName": "New York",
+          "city": "Buffalo"
+        }
+      },
+      {
+        "id": "R612",
+        "name": "Queens Center",
+        "address": {
+          "stateName": "New York",
+          "city": "Elmhurst"
+        }
+      },
+      {
+        "id": "R060",
+        "name": "Roosevelt Field",
+        "address": {
+          "stateName": "New York",
+          "city": "Garden City"
+        }
+      },
+      {
+        "id": "R068",
+        "name": "Walt Whitman",
+        "address": {
+          "stateName": "New York",
+          "city": "Huntington Station"
+        }
+      },
+      {
+        "id": "R139",
+        "name": "Smith Haven",
+        "address": {
+          "stateName": "New York",
+          "city": "Lake Grove"
+        }
+      },
+      {
+        "id": "R327",
+        "name": "Manhasset",
+        "address": {
+          "stateName": "New York",
+          "city": "Manhasset"
+        }
+      },
+      {
+        "id": "R046",
+        "name": "Nanuet",
+        "address": {
+          "stateName": "New York",
+          "city": "Nanuet"
+        }
+      },
+      {
+        "id": "R250",
+        "name": "West 14th Street",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R095",
+        "name": "Fifth Avenue",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R654",
+        "name": "World Trade Center",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R032",
+        "name": "SoHo",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R251",
+        "name": "Upper West Side",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R582",
+        "name": "Upper East Side",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R415",
+        "name": "Grand Central",
+        "address": {
+          "stateName": "New York",
+          "city": "New York"
+        }
+      },
+      {
+        "id": "R152",
+        "name": "Staten Island",
+        "address": {
+          "stateName": "New York",
+          "city": "Staten Island"
+        }
+      },
+      {
+        "id": "R107",
+        "name": "Syracuse",
+        "address": {
+          "stateName": "New York",
+          "city": "Syracuse"
+        }
+      },
+      {
+        "id": "R140",
+        "name": "Eastview",
+        "address": {
+          "stateName": "New York",
+          "city": "Victor"
+        }
+      },
+      {
+        "id": "R061",
+        "name": "The Westchester",
+        "address": {
+          "stateName": "New York",
+          "city": "White Plains"
+        }
+      },
+      {
+        "id": "R261",
+        "name": "Ridge Hill",
+        "address": {
+          "stateName": "New York",
+          "city": "Yonkers"
+        }
+      },
+      {
+        "id": "R083",
+        "name": "SouthPark",
+        "address": {
+          "stateName": "North Carolina",
+          "city": "Charlotte"
+        }
+      },
+      {
+        "id": "R049",
+        "name": "Southpoint",
+        "address": {
+          "stateName": "North Carolina",
+          "city": "Durham"
+        }
+      },
+      {
+        "id": "R293",
+        "name": "Friendly Center",
+        "address": {
+          "stateName": "North Carolina",
+          "city": "Greensboro"
+        }
+      },
+      {
+        "id": "R796",
+        "name": "Birkdale Village",
+        "address": {
+          "stateName": "North Carolina",
+          "city": "Huntersville"
+        }
+      },
+      {
+        "id": "R116",
+        "name": "Crabtree Valley Mall",
+        "address": {
+          "stateName": "North Carolina",
+          "city": "Raleigh"
+        }
+      },
+      {
+        "id": "R353",
+        "name": "Summit Mall",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Akron"
+        }
+      },
+      {
+        "id": "R518",
+        "name": "The Greene",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Beavercreek"
+        }
+      },
+      {
+        "id": "R028",
+        "name": "Kenwood Towne Centre",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Cincinnati"
+        }
+      },
+      {
+        "id": "R417",
+        "name": "Polaris Fashion Place",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Columbus"
+        }
+      },
+      {
+        "id": "R009",
+        "name": "Easton Town Center",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Columbus"
+        }
+      },
+      {
+        "id": "R299",
+        "name": "Franklin Park Mall",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Toledo"
+        }
+      },
+      {
+        "id": "R192",
+        "name": "Crocker Park",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Westlake"
+        }
+      },
+      {
+        "id": "R081",
+        "name": "Eton",
+        "address": {
+          "stateName": "Ohio",
+          "city": "Woodmere"
+        }
+      },
+      {
+        "id": "R130",
+        "name": "Penn Square",
+        "address": {
+          "stateName": "Oklahoma",
+          "city": "Oklahoma City"
+        }
+      },
+      {
+        "id": "R233",
+        "name": "Woodland Hills",
+        "address": {
+          "stateName": "Oklahoma",
+          "city": "Tulsa"
+        }
+      },
+      {
+        "id": "R077",
+        "name": "Pioneer Place",
+        "address": {
+          "stateName": "Oregon",
+          "city": "Portland"
+        }
+      },
+      {
+        "id": "R134",
+        "name": "Bridgeport Village",
+        "address": {
+          "stateName": "Oregon",
+          "city": "Tigard"
+        }
+      },
+      {
+        "id": "R090",
+        "name": "Washington Square",
+        "address": {
+          "stateName": "Oregon",
+          "city": "Tigard"
+        }
+      },
+      {
+        "id": "R166",
+        "name": "Suburban Square",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Ardmore"
+        }
+      },
+      {
+        "id": "R065",
+        "name": "King of Prussia",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "King of Prussia"
+        }
+      },
+      {
+        "id": "R304",
+        "name": "Park City",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Lancaster"
+        }
+      },
+      {
+        "id": "R162",
+        "name": "Walnut Street",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Philadelphia"
+        }
+      },
+      {
+        "id": "R413",
+        "name": "Ross Park",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Pittsburgh"
+        }
+      },
+      {
+        "id": "R096",
+        "name": "Shadyside",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Pittsburgh"
+        }
+      },
+      {
+        "id": "R147",
+        "name": "South Hills Village",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Pittsburgh"
+        }
+      },
+      {
+        "id": "R281",
+        "name": "Lehigh Valley",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Whitehall"
+        }
+      },
+      {
+        "id": "R234",
+        "name": "Willow Grove Park",
+        "address": {
+          "stateName": "Pennsylvania",
+          "city": "Willow Grove"
+        }
+      },
+      {
+        "id": "R167",
+        "name": "Providence Place",
+        "address": {
+          "stateName": "Rhode Island",
+          "city": "Providence"
+        }
+      },
+      {
+        "id": "R318",
+        "name": "Charleston",
+        "address": {
+          "stateName": "South Carolina",
+          "city": "Charleston"
+        }
+      },
+      {
+        "id": "R355",
+        "name": "Haywood Mall",
+        "address": {
+          "stateName": "South Carolina",
+          "city": "Greenville"
+        }
+      },
+      {
+        "id": "R513",
+        "name": "CoolSprings Galleria",
+        "address": {
+          "stateName": "Tennessee",
+          "city": "Franklin"
+        }
+      },
+      {
+        "id": "R020",
+        "name": "Saddle Creek",
+        "address": {
+          "stateName": "Tennessee",
+          "city": "Germantown"
+        }
+      },
+      {
+        "id": "R203",
+        "name": "West Town Mall",
+        "address": {
+          "stateName": "Tennessee",
+          "city": "Knoxville"
+        }
+      },
+      {
+        "id": "R123",
+        "name": "Green Hills",
+        "address": {
+          "stateName": "Tennessee",
+          "city": "Nashville"
+        }
+      },
+      {
+        "id": "R133",
+        "name": "Downtown Nashville",
+        "address": {
+          "stateName": "Tennessee",
+          "city": "Nashville"
+        }
+      },
+      {
+        "id": "R216",
+        "name": "Domain NORTHSIDE",
+        "address": {
+          "stateName": "Texas",
+          "city": "Austin"
+        }
+      },
+      {
+        "id": "R085",
+        "name": "Barton Creek",
+        "address": {
+          "stateName": "Texas",
+          "city": "Austin"
+        }
+      },
+      {
+        "id": "R144",
+        "name": "NorthPark Center",
+        "address": {
+          "stateName": "Texas",
+          "city": "Dallas"
+        }
+      },
+      {
+        "id": "R042",
+        "name": "Knox Street",
+        "address": {
+          "stateName": "Texas",
+          "city": "Dallas"
+        }
+      },
+      {
+        "id": "R746",
+        "name": "Galleria Dallas",
+        "address": {
+          "stateName": "Texas",
+          "city": "Dallas"
+        }
+      },
+      {
+        "id": "R492",
+        "name": "Cielo Vista Mall",
+        "address": {
+          "stateName": "Texas",
+          "city": "El Paso"
+        }
+      },
+      {
+        "id": "R316",
+        "name": "University Park Village",
+        "address": {
+          "stateName": "Texas",
+          "city": "Fort Worth"
+        }
+      },
+      {
+        "id": "R204",
+        "name": "Baybrook",
+        "address": {
+          "stateName": "Texas",
+          "city": "Friendswood"
+        }
+      },
+      {
+        "id": "R164",
+        "name": "Memorial City",
+        "address": {
+          "stateName": "Texas",
+          "city": "Houston"
+        }
+      },
+      {
+        "id": "R058",
+        "name": "Houston Galleria",
+        "address": {
+          "stateName": "Texas",
+          "city": "Houston"
+        }
+      },
+      {
+        "id": "R321",
+        "name": "Willowbrook Mall",
+        "address": {
+          "stateName": "Texas",
+          "city": "Houston"
+        }
+      },
+      {
+        "id": "R437",
+        "name": "Highland Village",
+        "address": {
+          "stateName": "Texas",
+          "city": "Houston"
+        }
+      },
+      {
+        "id": "R290",
+        "name": "North Star",
+        "address": {
+          "stateName": "Texas",
+          "city": "San Antonio"
+        }
+      },
+      {
+        "id": "R131",
+        "name": "La Cantera",
+        "address": {
+          "stateName": "Texas",
+          "city": "San Antonio"
+        }
+      },
+      {
+        "id": "R151",
+        "name": "Southlake Town Square",
+        "address": {
+          "stateName": "Texas",
+          "city": "Southlake"
+        }
+      },
+      {
+        "id": "R205",
+        "name": "First Colony Mall",
+        "address": {
+          "stateName": "Texas",
+          "city": "Sugar Land"
+        }
+      },
+      {
+        "id": "R126",
+        "name": "The Woodlands",
+        "address": {
+          "stateName": "Texas",
+          "city": "The Woodlands"
+        }
+      },
+      {
+        "id": "R599",
+        "name": "Station Park",
+        "address": {
+          "stateName": "Utah",
+          "city": "Farmington"
+        }
+      },
+      {
+        "id": "R461",
+        "name": "Fashion Place",
+        "address": {
+          "stateName": "Utah",
+          "city": "Murray"
+        }
+      },
+      {
+        "id": "R125",
+        "name": "City Creek Center",
+        "address": {
+          "stateName": "Utah",
+          "city": "Salt Lake City"
+        }
+      },
+      {
+        "id": "R036",
+        "name": "Clarendon",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Arlington"
+        }
+      },
+      {
+        "id": "R129",
+        "name": "Pentagon City",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Arlington"
+        }
+      },
+      {
+        "id": "R221",
+        "name": "Fairfax Corner",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Fairfax"
+        }
+      },
+      {
+        "id": "R010",
+        "name": "Tysons Corner",
+        "address": {
+          "stateName": "Virginia",
+          "city": "McLean"
+        }
+      },
+      {
+        "id": "R271",
+        "name": "Reston",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Reston"
+        }
+      },
+      {
+        "id": "R078",
+        "name": "Short Pump Town Center",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Richmond"
+        }
+      },
+      {
+        "id": "R614",
+        "name": "Lynnhaven Mall",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Virginia Beach"
+        }
+      },
+      {
+        "id": "R598",
+        "name": "Stonebridge Potomac Town Center",
+        "address": {
+          "stateName": "Virginia",
+          "city": "Woodbridge"
+        }
+      },
+      {
+        "id": "R003",
+        "name": "Bellevue Square",
+        "address": {
+          "stateName": "Washington",
+          "city": "Bellevue"
+        }
+      },
+      {
+        "id": "R100",
+        "name": "Alderwood",
+        "address": {
+          "stateName": "Washington",
+          "city": "Lynnwood"
+        }
+      },
+      {
+        "id": "R072",
+        "name": "University Village",
+        "address": {
+          "stateName": "Washington",
+          "city": "Seattle"
+        }
+      },
+      {
+        "id": "R420",
+        "name": "River Park Square",
+        "address": {
+          "stateName": "Washington",
+          "city": "Spokane"
+        }
+      },
+      {
+        "id": "R339",
+        "name": "Tacoma Mall",
+        "address": {
+          "stateName": "Washington",
+          "city": "Tacoma"
+        }
+      },
+      {
+        "id": "R106",
+        "name": "Southcenter",
+        "address": {
+          "stateName": "Washington",
+          "city": "Tukwila"
+        }
+      },
+      {
+        "id": "R257",
+        "name": "Bayshore",
+        "address": {
+          "stateName": "Wisconsin",
+          "city": "Glendale"
+        }
+      },
+      {
+        "id": "R229",
+        "name": "Hilldale",
+        "address": {
+          "stateName": "Wisconsin",
+          "city": "Madison"
+        }
+      },
+      {
+        "id": "R059",
+        "name": "Mayfair",
+        "address": {
+          "stateName": "Wisconsin",
+          "city": "Wauwatosa"
+        }
+      }
+    ]
+  },
+  {
+    "locale": "en_CA",
+    "hasStates": false,
+    "source": "https://www.apple.com/retail/storelist/",
+    "retrievedAt": "2026-10-29",
+    "store": [
+      {
+        "id": "R369",
+        "name": "Polo Park",
+        "address": {
+          "stateName": "Manitoba",
+          "city": "Winnipeg"
+        }
+      },
+      {
+        "id": "R512",
+        "name": "DIX30",
+        "address": {
+          "stateName": "Quebec",
+          "city": "Brossard"
+        }
+      },
+      {
+        "id": "R392",
+        "name": "Fairview Pointe-Claire",
+        "address": {
+          "stateName": "Quebec",
+          "city": "Pointe-Claire"
+        }
+      },
+      {
+        "id": "R412",
+        "name": "Place Ste-Foy",
+        "address": {
+          "stateName": "Quebec",
+          "city": "Quebec City"
+        }
+      },
+      {
+        "id": "R248",
+        "name": "Sainte-Catherine",
+        "address": {
+          "stateName": "Quebec",
+          "city": "Montreal"
+        }
+      },
+      {
+        "id": "R207",
+        "name": "Carrefour Laval",
+        "address": {
+          "stateName": "Quebec",
+          "city": "Laval"
+        }
+      },
+      {
+        "id": "R421",
+        "name": "Richmond Centre",
+        "address": {
+          "stateName": "British Columbia",
+          "city": "Richmond"
+        }
+      },
+      {
+        "id": "R601",
+        "name": "Guildford Town Centre",
+        "address": {
+          "stateName": "British Columbia",
+          "city": "Surrey"
+        }
+      },
+      {
+        "id": "R280",
+        "name": "Pacific Centre",
+        "address": {
+          "stateName": "British Columbia",
+          "city": "Vancouver"
+        }
+      },
+      {
+        "id": "R488",
+        "name": "Coquitlam Centre",
+        "address": {
+          "stateName": "British Columbia",
+          "city": "Coquitlam"
+        }
+      },
+      {
+        "id": "R460",
+        "name": "Metrotown",
+        "address": {
+          "stateName": "British Columbia",
+          "city": "Burnaby"
+        }
+      },
+      {
+        "id": "R464",
+        "name": "Conestoga",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Waterloo"
+        }
+      },
+      {
+        "id": "R350",
+        "name": "Square One",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Mississauga"
+        }
+      },
+      {
+        "id": "R447",
+        "name": "Mapleview Centre",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Burlington"
+        }
+      },
+      {
+        "id": "R332",
+        "name": "Rideau",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Ottawa"
+        }
+      },
+      {
+        "id": "R120",
+        "name": "Yorkdale",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Toronto"
+        }
+      },
+      {
+        "id": "R208",
+        "name": "Sherway Gardens",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Toronto"
+        }
+      },
+      {
+        "id": "R490",
+        "name": "Bayshore Shopping Centre",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Ottawa"
+        }
+      },
+      {
+        "id": "R333",
+        "name": "Fairview",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Toronto"
+        }
+      },
+      {
+        "id": "R515",
+        "name": "Markville Shopping Centre",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Markham"
+        }
+      },
+      {
+        "id": "R489",
+        "name": "Masonville",
+        "address": {
+          "stateName": "Ontario",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R121",
+        "name": "Eaton Centre",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Toronto"
+        }
+      },
+      {
+        "id": "R429",
+        "name": "Upper Canada Mall",
+        "address": {
+          "stateName": "Ontario",
+          "city": "Newmarket"
+        }
+      },
+      {
+        "id": "R514",
+        "name": "Halifax Shopping Centre",
+        "address": {
+          "stateName": "Nova Scotia",
+          "city": "Halifax"
+        }
+      },
+      {
+        "id": "R301",
+        "name": "Market Mall",
+        "address": {
+          "stateName": "Alberta",
+          "city": "Calgary"
+        }
+      },
+      {
+        "id": "R411",
+        "name": "Southgate Centre",
+        "address": {
+          "stateName": "Alberta",
+          "city": "Edmonton"
+        }
+      },
+      {
+        "id": "R273",
+        "name": "West Edmonton",
+        "address": {
+          "stateName": "Alberta",
+          "city": "Edmonton"
+        }
+      },
+      {
+        "id": "R209",
+        "name": "Chinook Centre",
+        "address": {
+          "stateName": "Alberta",
+          "city": "Calgary"
+        }
+      }
+    ]
+  },
+  {
+    "locale": "en_GB",
+    "hasStates": false,
+    "source": "https://www.apple.com/retail/storelist/",
+    "retrievedAt": "2026-10-29",
+    "store": [
+      {
+        "id": "R363",
+        "name": "Union Square",
+        "address": {
+          "stateName": "Aberdeen",
+          "city": "Aberdeen"
+        }
+      },
+      {
+        "id": "R242",
+        "name": "Lakeside",
+        "address": {
+          "stateName": "Essex",
+          "city": "Grays"
+        }
+      },
+      {
+        "id": "R410",
+        "name": "Stratford City",
+        "address": {
+          "stateName": "Greater London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R227",
+        "name": "Bentall Centre",
+        "address": {
+          "stateName": "Greater London",
+          "city": "Kingston upon Thames"
+        }
+      },
+      {
+        "id": "R163",
+        "name": "Brent Cross",
+        "address": {
+          "stateName": "Greater London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R762",
+        "name": "Battersea",
+        "address": {
+          "stateName": "Greater London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R226",
+        "name": "White City",
+        "address": {
+          "stateName": "Greater London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R176",
+        "name": "The Oracle",
+        "address": {
+          "stateName": "Berkshire",
+          "city": "Reading"
+        }
+      },
+      {
+        "id": "R215",
+        "name": "Manchester Arndale",
+        "address": {
+          "stateName": "Greater Manchester",
+          "city": "Manchester"
+        }
+      },
+      {
+        "id": "R136",
+        "name": "Trafford Centre",
+        "address": {
+          "stateName": "Greater Manchester",
+          "city": "Manchester"
+        }
+      },
+      {
+        "id": "R270",
+        "name": "Grand Arcade",
+        "address": {
+          "stateName": "Cambridgeshire",
+          "city": "Cambridge"
+        }
+      },
+      {
+        "id": "R335",
+        "name": "SouthGate",
+        "address": {
+          "stateName": "Somerset",
+          "city": "Bath"
+        }
+      },
+      {
+        "id": "R308",
+        "name": "Highcross",
+        "address": {
+          "stateName": "Leicestershire",
+          "city": "Leicester"
+        }
+      },
+      {
+        "id": "R372",
+        "name": "Trinity Leeds",
+        "address": {
+          "stateName": "West Yorkshire",
+          "city": "Leeds"
+        }
+      },
+      {
+        "id": "R239",
+        "name": "Liverpool",
+        "address": {
+          "stateName": "Merseyside",
+          "city": "Liverpool"
+        }
+      },
+      {
+        "id": "R174",
+        "name": "Southampton",
+        "address": {
+          "stateName": "Hampshire",
+          "city": "Southampton"
+        }
+      },
+      {
+        "id": "R482",
+        "name": "Festival Place",
+        "address": {
+          "stateName": "Hampshire",
+          "city": "Basingstoke"
+        }
+      },
+      {
+        "id": "R393",
+        "name": "Cribbs Causeway",
+        "address": {
+          "stateName": "Bristol",
+          "city": "Bristol"
+        }
+      },
+      {
+        "id": "R092",
+        "name": "Regent Street",
+        "address": {
+          "stateName": "Central London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R245",
+        "name": "Covent Garden",
+        "address": {
+          "stateName": "Central London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R329",
+        "name": "Brompton Road",
+        "address": {
+          "stateName": "Central London",
+          "city": "London"
+        }
+      },
+      {
+        "id": "R391",
+        "name": "Norwich",
+        "address": {
+          "stateName": "Norfolk",
+          "city": "Norwich"
+        }
+      },
+      {
+        "id": "R334",
+        "name": "Cardiff",
+        "address": {
+          "stateName": "Cardiff",
+          "city": "Cardiff"
+        }
+      },
+      {
+        "id": "R269",
+        "name": "Milton Keynes",
+        "address": {
+          "stateName": "Buckinghamshire",
+          "city": "Milton Keynes"
+        }
+      },
+      {
+        "id": "R341",
+        "name": "Eldon Square",
+        "address": {
+          "stateName": "Tyne and Wear",
+          "city": "Newcastle upon Tyne"
+        }
+      },
+      {
+        "id": "R423",
+        "name": "Metrocentre",
+        "address": {
+          "stateName": "Tyne and Wear",
+          "city": "Gateshead"
+        }
+      },
+      {
+        "id": "R313",
+        "name": "Belfast",
+        "address": {
+          "stateName": "Northern Ireland",
+          "city": "Belfast"
+        }
+      },
+      {
+        "id": "R244",
+        "name": "Churchill Square",
+        "address": {
+          "stateName": "East Sussex",
+          "city": "Brighton"
+        }
+      },
+      {
+        "id": "R496",
+        "name": "Bromley",
+        "address": {
+          "stateName": "Kent",
+          "city": "Bromley"
+        }
+      },
+      {
+        "id": "R113",
+        "name": "Bluewater",
+        "address": {
+          "stateName": "Kent",
+          "city": "Greenhithe"
+        }
+      },
+      {
+        "id": "R153",
+        "name": "Meadowhall",
+        "address": {
+          "stateName": "South Yorkshire",
+          "city": "Sheffield"
+        }
+      },
+      {
+        "id": "R255",
+        "name": "Touchwood Centre",
+        "address": {
+          "stateName": "West Midlands",
+          "city": "Solihull"
+        }
+      },
+      {
+        "id": "R118",
+        "name": "Birmingham",
+        "address": {
+          "stateName": "West Midlands",
+          "city": "Birmingham"
+        }
+      },
+      {
+        "id": "R527",
+        "name": "Watford",
+        "address": {
+          "stateName": "Hertfordshire",
+          "city": "Watford"
+        }
+      },
+      {
+        "id": "R328",
+        "name": "Edinburgh",
+        "address": {
+          "stateName": "Edinburgh",
+          "city": "Edinburgh"
+        }
+      },
+      {
+        "id": "R135",
+        "name": "Glasgow",
+        "address": {
+          "stateName": "Glasgow",
+          "city": "Glasgow"
+        }
+      },
+      {
+        "id": "R340",
+        "name": "Braehead",
+        "address": {
+          "stateName": "Glasgow",
+          "city": "Glasgow"
+        }
+      },
+      {
+        "id": "R545",
+        "name": "Plymouth",
+        "address": {
+          "stateName": "Devon",
+          "city": "Plymouth"
+        }
+      },
+      {
+        "id": "R279",
+        "name": "Princesshay",
+        "address": {
+          "stateName": "Devon",
+          "city": "Exeter"
+        }
+      }
+    ]
+  },
+  {
+    "locale": "de_DE",
+    "hasStates": false,
+    "source": "https://www.apple.com/retail/storelist/",
+    "retrievedAt": "2026-10-29",
+    "store": [
+      {
+        "id": "R430",
+        "name": "Altmarkt-Galerie",
+        "address": {
+          "stateName": "Saxony",
+          "city": "Dresden"
+        }
+      },
+      {
+        "id": "R519",
+        "name": "Sindelfingen",
+        "address": {
+          "stateName": "Baden-Württemberg",
+          "city": "Sindelfingen"
+        }
+      },
+      {
+        "id": "R352",
+        "name": "Grosse Bockenheimer Strasse",
+        "address": {
+          "stateName": "Hesse",
+          "city": "Frankfurt"
+        }
+      },
+      {
+        "id": "R434",
+        "name": "MTZ",
+        "address": {
+          "stateName": "Hesse",
+          "city": "Sulzbach"
+        }
+      },
+      {
+        "id": "R045",
+        "name": "Rosenstrasse",
+        "address": {
+          "stateName": "Bavaria",
+          "city": "Munich"
+        }
+      },
+      {
+        "id": "R431",
+        "name": "City-Galerie",
+        "address": {
+          "stateName": "Bavaria",
+          "city": "Augsburg"
+        }
+      },
+      {
+        "id": "R521",
+        "name": "OEZ",
+        "address": {
+          "stateName": "Bavaria",
+          "city": "Munich"
+        }
+      },
+      {
+        "id": "R455",
+        "name": "Hannover",
+        "address": {
+          "stateName": "Lower Saxony",
+          "city": "Hannover"
+        }
+      },
+      {
+        "id": "R366",
+        "name": "Alstertal",
+        "address": {
+          "stateName": "Hamburg",
+          "city": "Hamburg"
+        }
+      },
+      {
+        "id": "R396",
+        "name": "Jungfernstieg",
+        "address": {
+          "stateName": "Hamburg",
+          "city": "Hamburg"
+        }
+      },
+      {
+        "id": "R520",
+        "name": "Rhein Center",
+        "address": {
+          "stateName": "North Rhine-Westphalia",
+          "city": "Cologne"
+        }
+      },
+      {
+        "id": "R403",
+        "name": "CentrO",
+        "address": {
+          "stateName": "North Rhine-Westphalia",
+          "city": "Oberhausen"
+        }
+      },
+      {
+        "id": "R331",
+        "name": "Düsseldorf",
+        "address": {
+          "stateName": "North Rhine-Westphalia",
+          "city": "Düsseldorf"
+        }
+      },
+      {
+        "id": "R559",
+        "name": "Schildergasse",
+        "address": {
+          "stateName": "North Rhine-Westphalia",
+          "city": "Cologne"
+        }
+      },
+      {
+        "id": "R358",
+        "name": "Kurfürstendamm",
+        "address": {
+          "stateName": "Berlin",
+          "city": "Berlin"
+        }
+      },
+      {
+        "id": "R443",
+        "name": "Rosenthaler Strasse",
+        "address": {
+          "stateName": "Berlin",
+          "city": "Berlin"
+        }
+      }
+    ]
+  },
+  {
+    "locale": "ko_KR",
+    "hasStates": false,
+    "source": "https://www.apple.com/retail/storelist/",
+    "retrievedAt": "2026-10-29",
+    "store": [
+      {
+        "id": "R770",
+        "name": "Hanam",
+        "address": {
+          "stateName": "Gyeonggi",
+          "city": "Gyeonggi"
+        }
+      },
+      {
+        "id": "R751",
+        "name": "Jamsil",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      },
+      {
+        "id": "R738",
+        "name": "Myeongdong",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      },
+      {
+        "id": "R692",
+        "name": "Garosugil",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      },
+      {
+        "id": "R747",
+        "name": "Yeouido",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      },
+      {
+        "id": "R691",
+        "name": "Gangnam",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      },
+      {
+        "id": "R764",
+        "name": "Hongdae",
+        "address": {
+          "stateName": "Seoul",
+          "city": "Seoul"
+        }
+      }
+    ]
   }
 ]

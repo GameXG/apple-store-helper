@@ -11,11 +11,12 @@ type Area struct {
  * 中国大陆: CN/zh_CN
  * 中国澳门: MO/zh_MO
  *
- * ProductsJson 是一个数组，第一个值是基础款的 Data, 第二个值是 Pro 款的 Data
+ * ProductsJson 是 productSelectionData 对象的数组，包含各系列的当地 SKU、颜色和容量。
+ * 同一 SKU 的不同购买方案只需保留一个 products 条目。
  * 打开购买页面，在开发者工具 Elements 面板中搜索 productSelectionData 提取值
  * Example URLs:
- * - [iPhone 15](https://www.apple.com.cn/shop/buy-iphone/iphone-15)
- * - [iPhone 15 Pro](https://www.apple.com.cn/shop/buy-iphone/iphone-15-pro)
+ * - https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro
+ * - https://www.apple.com.cn/shop/buy-iphone/iphone-duo
  */
 var Areas = []Area{
 	{
