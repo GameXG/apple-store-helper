@@ -174,6 +174,50 @@ class AvailabilityTests(unittest.TestCase):
         self.assertEqual(json.loads(request.data)["url"], "https://www.apple.com.cn/shop/bag")
 
 
+class WatchSelectionTests(unittest.TestCase):
+    @patch.object(helper, "watch", return_value=0)
+    def test_comma_selections_mix_with_repeated_options_and_deduplicate(self, watch):
+        self.assertEqual(helper.main([
+            "watch", "--area", "cn", "--store", " R683, R705 ", "--store", "R683",
+            "--product", "MK2M4CH/A,MK2M4CH/A", "--product", "mk2n4ch/a",
+        ]), 0)
+        _, stores, products = watch.call_args.args
+        self.assertEqual([s.code for s in stores], ["R683", "R705"])
+        self.assertEqual([p.code for p in products], ["MK2M4CH/A", "MK2N4CH/A"])
+
+    @patch.object(helper, "watch", return_value=0)
+    def test_default_all_stores_and_bare_or_omitted_product(self, watch):
+        for extra in ([], ["--product"]):
+            with self.subTest(extra=extra):
+                self.assertEqual(helper.main(["watch", "--area", "hk"] + extra), 0)
+                args, stores, products = watch.call_args.args
+                self.assertEqual(args.area, "hk")
+                self.assertEqual(stores, helper.stores_for("hk"))
+                self.assertEqual(products, helper.products_for("hk"))
+        self.assertEqual(helper.main(["watch", "--store", "R683,R705"]), 0)
+        self.assertEqual(len(watch.call_args.args[1]), 2)
+        self.assertEqual(len(watch.call_args.args[2]), 40)
+
+    @patch.object(helper, "watch", return_value=0)
+    def test_store_filter_narrows_all_or_explicit_stores(self, watch):
+        self.assertEqual(helper.main(["watch", "--area", "hk", "--filter", "Canton", "--product"]), 0)
+        self.assertEqual([s.code for s in watch.call_args.args[1]], ["R499"])
+        self.assertEqual(len(watch.call_args.args[2]), 40)
+        self.assertEqual(helper.main(["watch", "--store", "R683,R705", "--filter", "环球港", "--product", "Duo"]), 0)
+        self.assertEqual([s.code for s in watch.call_args.args[1]], ["R683"])
+        self.assertEqual(len(watch.call_args.args[2]), 8)
+
+    @patch.object(helper, "watch")
+    @patch.object(helper, "fetch_json")
+    def test_invalid_or_empty_selection_never_starts_monitor(self, fetch, watch):
+        for extra in (["--filter", "unknown-store"], ["--store", ", ,"],
+                      ["--store", "R683,unknown-store"], ["--product", "MK2M4CH/A,unknown-sku"]):
+            with self.subTest(extra=extra), redirect_stderr(io.StringIO()):
+                self.assertEqual(helper.main(["watch"] + extra), 2)
+        watch.assert_not_called()
+        fetch.assert_not_called()
+
+
 class WatchTests(unittest.TestCase):
     def setUp(self):
         self.store = helper.Item("R683", "环球港")

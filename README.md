@@ -64,15 +64,28 @@ python3 apple_store_helper.py watch --store R683 --product MK2M4CH/A --once
 python3 apple_store_helper.py watch --store 上海 --product Duo
 
 # 同时监听指定门店和多个 SKU
-python3 apple_store_helper.py watch --store R683 --store R390 \
-  --product MK2M4CH/A --product MK2N4CH/A
+python3 apple_store_helper.py watch --area cn --store R683,R705 \
+  --product MK2M4CH/A,MK2N4CH/A
+
+# 香港全部门店、全部型号
+python3 apple_store_helper.py watch --area hk --product
+
+# 在香港全部门店中筛选 Canton，监听全部型号
+python3 apple_store_helper.py watch --area hk --filter Canton --product
+
+# 指定多个门店，不指定型号时默认全部型号
+python3 apple_store_helper.py watch --area cn --store R683,R705
 
 # 有货后继续监听，并在出现新的有货状态时打开购物袋
 python3 apple_store_helper.py watch --store R683 --product Duo \
   --interval 15 --timeout 10 --keep-watching --open-bag
 ```
 
-`--store` 和 `--product` 支持编号/SKU 精确匹配，或名称关键词不区分大小写的包含匹配；关键词匹配的所有项目都会加入监听，重复参数取并集。启动时会列出完整监听范围，按 `Ctrl+C` 停止。
+`--store` 和 `--product` 支持编号/SKU 精确匹配，或名称关键词不区分大小写的包含匹配；支持逗号分隔和重复参数，可混用，取并集并自动去重，忽略逗号两侧空格。
+
+省略 `--store` 时选择所选国家或地区的全部门店；`--filter` 在门店选择结果中进一步筛选，不筛选商品。多个 `--filter` 取并集，再与 `--store` 选择结果取交集；无匹配时直接报错，不会发起库存请求。
+
+省略 `--product` 或单独使用不带值的 `--product` 均选择全部型号；任意一个裸 `--product` 也代表全部型号。重复 SKU 只查询一次。启动时会列出完整监听范围，按 `Ctrl+C` 停止。
 
 默认每轮查询完成后等待 10 秒，最低 1 秒；每个请求默认超时 10 秒，最多并发查询 4 家门店。每家门店按最多 20 个 SKU 分批查询，避免大批量查询时响应被截断；部分批次失败时保留其他批次的成功结果。每轮显示有货、无货和未知数量。请求失败、门店缺失、库存字段缺失或格式错误均视为未知，不会当作无货。
 

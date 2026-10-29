@@ -94,6 +94,16 @@ def select_items(items, filters):
     return list(selected.values())
 
 
+def split_selections(values):
+    """Normalize repeated, comma-separated selectors; a bare option means all."""
+    if values is None or any(value is None for value in values):
+        return None
+    result = [part.strip() for value in values for part in value.split(",") if part.strip()]
+    if not result:
+        raise ValueError("门店或型号选择列表不能为空")
+    return result
+
+
 def fetch_json(url, timeout, payload=None):
     headers = {"User-Agent": "Mozilla/5.0 AppleStoreHelper/1.0", "Accept": "application/json"}
     body = None
@@ -241,8 +251,9 @@ def main(argv=None):
         elif name == "list-products":
             command.add_argument("--filter", action="append", help="型号、颜色、容量或 SKU，可重复")
         else:
-            command.add_argument("--store", action="append", required=True, help="门店编号或名称关键词，可重复；使用 list-stores 查看门店和编号")
-            command.add_argument("--product", action="append", required=True, help="当地 SKU 或型号关键词，可重复；关键词匹配全部型号")
+            command.add_argument("--store", action="append", help="门店编号或名称关键词，支持逗号分隔或重复；默认全部门店")
+            command.add_argument("--filter", action="append", help="进一步筛选门店名称或精确编号，可重复")
+            command.add_argument("--product", action="append", nargs="?", const=None, help="SKU 或型号关键词，支持逗号分隔或重复；省略或不带值表示全部型号")
             command.add_argument("--interval", type=positive_number, default=10, help="轮次间隔秒数，默认 10，最低 1")
             command.add_argument("--timeout", type=positive_number, default=10, help="每个请求超时秒数，默认 10")
             command.add_argument("--once", action="store_true", help="仅查询一轮")
@@ -275,8 +286,9 @@ def main(argv=None):
             available_stores = stores_for(args.area)
             if not available_stores:
                 raise ValueError(f"{AREAS[args.area][1]}：暂无门店数据")
-            stores = select_items(available_stores, args.store)
-            products = select_items(products_for(args.area), args.product)
+            stores = select_items(available_stores, split_selections(args.store))
+            stores = select_items(stores, args.filter)
+            products = select_items(products_for(args.area), split_selections(args.product))
             if not stores or not products:
                 raise ValueError("所选国家或地区没有可用门店或型号")
             return watch(args, stores, products)
